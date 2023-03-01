@@ -7,5 +7,3 @@ inputs.forEach((input) => {
     valida(input.target);
   });
 });
-
-//test sync
